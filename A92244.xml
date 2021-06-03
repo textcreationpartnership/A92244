@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered against part of the bill, for the better viewing, searching, and examining of all drugs, medicines, &amp;c. All drugs are imported in sorts ...</title>
+         </titleStmt>
+         <extent>Approx. 2KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92244</idno><idno type="EEBO-CITATION">45097909</idno>
+  <idno type="VID">171486</idno>
+  <idno type="EEBO-PROQUEST">2240908745</idno>
+  
+            <idno type="STC">Wing R523C</idno>
+            <idno type="STC">ESTC R187214</idno>
+            <idno type="OCLC">45097909</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92244)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171486)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2575:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered against part of the bill, for the better viewing, searching, and examining of all drugs, medicines, &amp;c. All drugs are imported in sorts ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>16--?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Drugs --  Law and legislation --  Great Britain.</term>
+               <term type="topical_term">Pharmacists --  Great Britain.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171486:1"/>
+            <head>REASONS HUMBLY OFFERED <hi>Against Part of the Bill,</hi> For the better Viewing, Searching, and Examining of all Drugs, Medicines, <hi>&amp;c.</hi>
+            </head>
+            <p>ALL Drugs are Imported in Sorts, that is, Good and Bad together, by the Merchant, and so bought by the Drug<g ref="char:EOLhyphen"/>ist; whereof not one Half is used for Physick, but for Dying, Distilling, Perfuming, <hi>&amp;c.</hi> Medicaments for Horses, and other Cattle: Therefore the Search of the Physicians may obstruct Trade, but cannot promote it.</p>
+            <p>The Power of Viewing, Searching, and Destroying, which is desired by the Physicians, over the Drugists and Importers of Drugs, is Unreasonable; because most Drugs (many not being for Physical Use) are not so well known to Physicians, as they are to Drugists and Importers.</p>
+            <p>Drugs of all Degrees are useful in their Kind, and vendible in ma<g ref="char:EOLhyphen"/>ny Places beyond Sea: But if the Physicians shall Burn or Destroy them, it will discourage the Importation, we shall lose our Property, and the King his Revenue.</p>
+            <p>The Drugists (who may be restrained from making Medicines, or Compositions) can have no Power or Opportunity to prejudice Man's Body by their Drugs: But the Use of Bad Drugs must be his Fault only who is allowed to prepare Medicines, or Compositions, and not his who sells them according to their Goodness.</p>
+            <p>As the Bill now stands the Drugists, we conceive, will with Regard to their Property be in a much worse Condition than any other of his Majesty's Subjects; because their Goods are in the Power of a few Persons, and may be destroy'd without any Appeal, or Allowance made either for the Customs or Prime Cost, as on Wine and other Commo<g ref="char:EOLhyphen"/>dities are made.</p>
+            <p>
+               <hi>Therefore it is humbly conceived, That such Powers should extend only to Apothecaries, and other Persons preparing or keeping Me<g ref="char:EOLhyphen"/>dicines, or Compositions for Sale.</hi>
+            </p>
+            <pb facs="tcp:171486:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
